@@ -32,7 +32,7 @@ int main(int argc, char const *argv[])
   gint i;
   guint sum = 0;
   if (argc != 2) {
-    g_print("Invalid number of argumensts specified\n");
+    g_print("Invalid number of arguments specified\n");
     g_print("Usage: ./GSList_binary_integer <binary number to be converted>\n");
     return -1;
   }
